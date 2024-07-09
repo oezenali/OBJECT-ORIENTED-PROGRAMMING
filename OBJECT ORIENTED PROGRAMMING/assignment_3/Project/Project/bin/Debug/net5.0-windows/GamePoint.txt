@@ -1,0 +1,14 @@
+nickName,score
+Muhammet Ali,750
+Test,500
+Tester,400
+Testttt,400
+Son Test,350
+Elif,250
+Mustafa,210
+Ayşe,150
+Mehmet,80
+Muhammed,60
+Emin,50
+Olcay,20
+Yunus,10
