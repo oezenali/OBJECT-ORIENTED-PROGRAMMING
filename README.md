@@ -1,2 +1,2 @@
 # OBJECT-ORIENTED-PROGRAMMING
-OBJECT ORIENTED PROGRAMMING assignments
+This repository contains C# assignments completed for the OBJECT-ORIENTED-PROGRAMMING course.
